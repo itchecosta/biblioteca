@@ -1,0 +1,31 @@
+[15-Mar-2016 20:13:02] PHP Fatal error:  Call to a member function getImagem() on a non-object in /home/newbo192/public_html/adm-padrao/painel/administrativo/usuarios/process.php on line 94
+[26-Jun-2017 17:49:39 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'var IDGRUPO não existe' in /home/newbo192/public_html/sierra/classes/Template.class.php:116
+Stack trace:
+#0 /home/newbo192/public_html/sierra/painel/administrativo/usuarios/cad-altera.php(61): Template->__set('IDGRUPO', '1')
+#1 {main}
+  thrown in /home/newbo192/public_html/sierra/classes/Template.class.php on line 116
+[26-Jun-2017 17:49:42 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'var IDGRUPO não existe' in /home/newbo192/public_html/sierra/classes/Template.class.php:116
+Stack trace:
+#0 /home/newbo192/public_html/sierra/painel/administrativo/usuarios/cad-altera.php(61): Template->__set('IDGRUPO', '1')
+#1 {main}
+  thrown in /home/newbo192/public_html/sierra/classes/Template.class.php on line 116
+[26-Jun-2017 17:52:27 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'var IDGRUPO não existe' in /home/newbo192/public_html/sierra/classes/Template.class.php:116
+Stack trace:
+#0 /home/newbo192/public_html/sierra/painel/administrativo/usuarios/cad-altera.php(61): Template->__set('IDGRUPO', '1')
+#1 {main}
+  thrown in /home/newbo192/public_html/sierra/classes/Template.class.php on line 116
+[26-Jun-2017 17:52:28 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'var IDGRUPO não existe' in /home/newbo192/public_html/sierra/classes/Template.class.php:116
+Stack trace:
+#0 /home/newbo192/public_html/sierra/painel/administrativo/usuarios/cad-altera.php(61): Template->__set('IDGRUPO', '1')
+#1 {main}
+  thrown in /home/newbo192/public_html/sierra/classes/Template.class.php on line 116
+[26-Jun-2017 17:52:28 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'var IDGRUPO não existe' in /home/newbo192/public_html/sierra/classes/Template.class.php:116
+Stack trace:
+#0 /home/newbo192/public_html/sierra/painel/administrativo/usuarios/cad-altera.php(61): Template->__set('IDGRUPO', '1')
+#1 {main}
+  thrown in /home/newbo192/public_html/sierra/classes/Template.class.php on line 116
+[26-Jun-2017 17:53:50 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'RuntimeException' with message 'var IDGRUPO não existe' in /home/newbo192/public_html/sierra/classes/Template.class.php:116
+Stack trace:
+#0 /home/newbo192/public_html/sierra/painel/administrativo/usuarios/cad-altera.php(61): Template->__set('IDGRUPO', '1')
+#1 {main}
+  thrown in /home/newbo192/public_html/sierra/classes/Template.class.php on line 116
